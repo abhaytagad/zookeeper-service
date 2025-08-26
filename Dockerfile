@@ -1,2 +1,2 @@
-FROM wurstmeister/zookeeper:latest
-EXPOSE 2181
+FROM wurstmeister/zookeeper:3.4.6
+
