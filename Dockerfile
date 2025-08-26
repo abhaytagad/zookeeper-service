@@ -1,2 +1,1 @@
-FROM wurstmeister/zookeeper:3.4.6
-
+FROM zookeeper:3.9
