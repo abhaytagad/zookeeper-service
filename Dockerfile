@@ -1,2 +1,2 @@
-FROM zookeeper:3.9
-COPY zoo.cfg /conf/zoo.cfg
+FROM bitnami/kafka:3.5.1
+EXPOSE 9092
